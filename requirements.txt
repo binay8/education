@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+scipy
+pathlib
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Statistical Analysis
+scikit-learn
+statsmodels
+
+# Jupyter & Development
+jupyter
+notebook
+ipython
+ipykernel
