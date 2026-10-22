@@ -14,11 +14,13 @@ The analysis uses exploratory data analysis (EDA), simple linear regression, and
 ## Project Structure
 
 ```
-├── data/                 # Raw and processed data
 ├── code/                 # Jupyter notebooks and Python scripts
+├── data/                 # Raw and processed data
 ├── reports/              # Generated reports and visualizations
-├── requirements.txt      # Dependencies
-└── README.md             # Project documentation
+├── .gitignore            # Files and directory to be omitted in github
+├── README.md             # Project documentation
+└── requirements.txt      # Dependencies
+ 
 ```
 
 
